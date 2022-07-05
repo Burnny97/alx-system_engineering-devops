@@ -1,2 +1,2 @@
 #!/bin/bash
-Directories Permissions
+chmod -R ugo+x
