@@ -1,2 +1,2 @@
 #!/bin/bash
-Without C, you would live in hiago
+tr -d cC

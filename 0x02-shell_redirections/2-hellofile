@@ -1,2 +1,2 @@
 #!/bin/bash
-Let us display a file
+cat /etc/passwd

@@ -1,2 +1,2 @@
 #!/bin/bash
-No more javascript
+find . -type f -name "*.js" -delete

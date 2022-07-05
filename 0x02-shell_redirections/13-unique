@@ -1,2 +1,2 @@
 #!/bin/bash
-Being unique is better than being perfect
+sort | uniq -u

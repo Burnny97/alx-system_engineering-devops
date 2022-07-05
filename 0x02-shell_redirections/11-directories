@@ -1,2 +1,2 @@
 #!/bin/bash
-Do not just count your directories, make your directories count mandatory
+find -mindepth 1 -type d | wc -l
